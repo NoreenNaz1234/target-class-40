@@ -1,0 +1,522 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"is",
+				"isElectric"
+			],
+			[
+				"o",
+				"obtMark"
+			],
+			[
+				"t",
+				"totalMark"
+			],
+			[
+				"num",
+				"numb2"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"Rig",
+				"right"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"background-",
+				"background-repeat"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"na",
+				"Name"
+			],
+			[
+				"bod",
+				"border-collapse"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bo",
+				"border-style"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"list-styl",
+				"list-style-image"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"list",
+				"list-group-item"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"m",
+				"meta\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"le",
+				"level-3"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"si",
+				"font-size-adjust"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"Di",
+				"DIV\tTag"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"right",
+				"padding-right"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"borde",
+				"border-width"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"j",
+				"jpeg"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/vbstudent/Desktop/if-else.js/q7.js",
+		"/C/Users/vbstudent/Desktop/if-else.js/q9.js",
+		"/D/if-else.js/.git/refs/heads/master",
+		"/C/Users/vbstudent/Desktop/class.js/index.html",
+		"/C/Users/vbstudent/Desktop/class-js/index.html",
+		"/C/Users/vbstudent/Desktop/class-js/script.js",
+		"/C/Users/vbstudent/Desktop/class-js/class-32-quiz-1/index.html",
+		"/C/Users/vbstudent/Desktop/class-js/class-32-quiz-1/printer.js",
+		"/C/Users/vbstudent/Desktop/class-js/class-32-quiz-1/add-numbers.js",
+		"/C/Users/vbstudent/Desktop/ambreen/index.html",
+		"/C/Users/vbstudent/Desktop/ambreen/style.css",
+		"/C/Users/vbstudent/Desktop/saturaday-class/script.js",
+		"/C/Users/vbstudent/Desktop/saturaday-class/js-first/script.js",
+		"/C/Users/vbstudent/Desktop/task-flexbox/index.html",
+		"/C/Users/vbstudent/Desktop/task-flexbox/style.css",
+		"/C/Users/vbstudent/Desktop/task-flexbox/animated.css",
+		"/C/Users/vbstudent/Desktop/deep/style.css",
+		"/C/Users/vbstudent/Desktop/deep/index.html",
+		"/C/Users/vbstudent/Downloads/startbootstrap-business-casual-gh-pages/startbootstrap-business-casual-gh-pages/index.html",
+		"/C/Users/vbstudent/Downloads/startbootstrap-one-page-wonder-gh-pages/startbootstrap-one-page-wonder-gh-pages/css/one-page-wonder.min.css",
+		"/C/Users/vbstudent/Downloads/startbootstrap-one-page-wonder-gh-pages/startbootstrap-one-page-wonder-gh-pages/css/one-page-wonder.css",
+		"/C/Users/vbstudent/Downloads/startbootstrap-one-page-wonder-gh-pages/startbootstrap-one-page-wonder-gh-pages/index.html",
+		"/C/Users/vbstudent/Desktop/ifra/style.css",
+		"/C/Users/vbstudent/Desktop/ifra/index.html",
+		"/C/Users/vbstudent/Desktop/Shahbaz/style.css",
+		"/C/Users/vbstudent/Desktop/Shahbaz/Chapter-14.html",
+		"/C/Users/vbstudent/Desktop/practice_files/techkaro-class-26-mockups/mockup-color-magic.png",
+		"/D/my-folder-1/index.html",
+		"/D/mentor.meetup/style2.css",
+		"/C/Users/vbstudent/Desktop/mentor.meetup/index2.html",
+		"/D/mentor.meetup/index2.html",
+		"/C/Users/vbstudent/Desktop/mentor.meetup/style2.css",
+		"/C/Users/vbstudent/Desktop/xyz.html/style.css",
+		"/C/Users/vbstudent/Desktop/mentor.meetup/lab-task-3/index.html",
+		"/C/Users/vbstudent/Desktop/mentor.meetup/lab-task-3/style.css",
+		"/C/Users/vbstudent/Desktop/share-19/lab-task-3/style.css",
+		"/C/Users/vbstudent/Desktop/share-19/lab-task-1/index.html",
+		"/C/Users/vbstudent/Desktop/share-19/lab-task-1/style.css",
+		"/C/Users/vbstudent/Desktop/xyz.html/style-medium.css",
+		"/C/Users/vbstudent/Desktop/abd.html/style.css",
+		"/C/Users/vbstudent/Desktop/xxx.html/style.css",
+		"/C/Users/vbstudent/Desktop/xxx.html/index.html",
+		"/C/Users/vbstudent/Desktop/abd.html/index.html",
+		"/C/Users/vbstudent/Desktop/abd",
+		"/C/Users/vbstudent/Desktop/cde.html/style.css",
+		"/C/Users/vbstudent/Desktop/nnn.html/style.css",
+		"/C/Users/vbstudent/Desktop/nnn.html/index.html",
+		"//colonel/Circle Programme/New folder/index.html",
+		"/C/Users/vbstudent/Desktop/cde.html/index.html",
+		"/C/Users/vbstudent/Desktop/table.html",
+		"/C/Users/vbstudent/Desktop/react.html",
+		"/C/Users/vbstudent/Desktop/wer/assignment 02.html",
+		"/C/Users/vbstudent/Desktop/Techkaro/quiz-conquering-relative paths/quiz-conquering-relative paths/level-2/my-page-2.html",
+		"/C/Users/vbstudent/Desktop/kkk.html/style.css",
+		"/C/Users/vbstudent/Desktop/kkk.html/index.html",
+		"/C/Users/vbstudent/Desktop/share-20/share-20/level-3/style.css",
+		"/C/Users/vbstudent/Desktop/share-20/share-20/level-3/index.html",
+		"/C/Users/vbstudent/Desktop/share-20/share-20/level-5/style.css",
+		"/C/Users/vbstudent/Desktop/share-20/share-20/level-5/index.html",
+		"//colonel/Circle Programme/share-20/share-20/level-5/index.html",
+		"/C/Users/vbstudent/Desktop/share-19/lab-task-3/index.html",
+		"/D/share-19/lab-task-2/index.html",
+		"/C/Users/vbstudent/Desktop/sh.html/style.css",
+		"/C/Users/vbstudent/Desktop/sh.html/index.html",
+		"//colonel/Circle Programme/share-18/share-18/lab-task-1/index.html",
+		"/C/Users/vbstudent/Desktop/saba/share-17/share-17/lab-task-png-slicing/level-8/style.css",
+		"//colonel/Circle Programme/share-17/share-17/lab-task-png-slicing/level-8/instructions/instructions.html",
+		"//colonel/Circle Programme/share-14/share-14/lab-task-6/index-6.html",
+		"/C/Users/vbstudent/Desktop/saba/share-17/share-17/lab-task-png-slicing/level-8/index.html",
+		"/C/Users/vbstudent/AppData/Local/Temp/Temp1_share-14.zip/share-14/lab-task-2/index-2.html",
+		"/C/Users/vbstudent/AppData/Local/Temp/Temp1_share-14.zip/share-14/lab-task-1/index-1.html",
+		"/C/Users/vbstudent/Desktop/saba/share-17/__MACOSX/share-17/lab-task-png-slicing/level-8/._index.html",
+		"/C/Users/vbstudent/Desktop/saba/share-17/share-17/lab-task-png-slicing/level-8/instructions/instructions.html",
+		"/C/Users/vbstudent/Desktop/my-projects/online-hospital-project/index.html",
+		"/C/Users/vbstudent/Desktop/my-projects/online-hospital-project/pages/our-team.html",
+		"/C/Users/vbstudent/Desktop/my-projects/online-hospital-project/pages/contact-us.html",
+		"/C/Users/vbstudent/Desktop/my-projects/online-hospital-project/pages/all-doctors.html",
+		"/C/Users/vbstudent/Desktop/my-projects/my-first-website/p.html",
+		"/C/Users/vbstudent/Desktop/Circle/class-10/share-class-10/level-4/my-new-file-1",
+		"/C/Users/vbstudent/Desktop/my-work/my.css",
+		"/C/Users/vbstudent/Desktop/my-work/my.html",
+		"/C/Users/vbstudent/Desktop/sabaIndex.html",
+		"/C/Users/vbstudent/Desktop/css-demo/style.css",
+		"/C/Users/vbstudent/Desktop/css-demo/index.html",
+		"/C/Users/vbstudent/Desktop/style-css",
+		"/C/Users/vbstudent/Desktop/css-",
+		"/C/Users/vbstudent/Desktop/my circle/class-9-share/class-9-share/6/share/online-shop-project/Pages/s",
+		"/C/Users/vbstudent/Desktop/my circle/class-9-share/6/__MACOSX/share/online-shop-project/Resources/Images/books/._books1.jpg",
+		"/C/Users/vbstudent/Downloads/Assignment ch 6 student copy14946847976191519546247083 (1).zip",
+		"/C/Users/vbstudent/Desktop/my circle/class-9-share/6/share/online-shop-project/Pages/Book-Details/book1-details.html",
+		"/C/Users/vbstudent/Desktop/my circle/class-9-share/6/share/online-shop-project/home.html",
+		"/C/Users/vbstudent/Desktop/Techkaro/quiz-conquering-relative paths/quiz-conquering-relative paths/level-3/my-page-3.html",
+		"/C/Users/vbstudent/Desktop/Techkaro/quiz-conquering-relative paths/quiz-conquering-relative paths/level-1/my-page-1.html",
+		"/C/Users/vbstudent/Desktop/Techkaro/quiz-conquering-relative paths/quiz-conquering-relative paths/level-4/my-page-4.html",
+		"/C/Users/vbstudent/Desktop/Techkaro/quiz-conquering-relative paths/quiz-conquering-relative paths/level-5/pages/my-page-5.html",
+		"/C/Users/vbstudent/Desktop/Techkaro/quiz-conquering-relative paths/quiz-conquering-relative paths/level-6/pagges/fold-inside/another-fold/my-page-6.html",
+		"/C/Users/vbstudent/Desktop/Techkaro/quiz-conquering-relative paths/quiz-conquering-relative paths/level-8/country-pages/china-page.html",
+		"/C/Users/vbstudent/Desktop/Techkaro/quiz-conquering-relative paths/quiz-conquering-relative paths/level-8/country-pages/bangladesh-page.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 143.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
